@@ -1,4 +1,5 @@
 # 🌿 GRASP-BLS for Economic Emission Dispatch with Unit Commitment
+[![DOI](https://zenodo.org/badge/1205023389.svg)](https://doi.org/10.5281/zenodo.19472870)
 
 Hybrid optimization framework combining **GRASP (Greedy Randomized Adaptive Search Procedure)** and **Backtracking Line Search (BLS)** for solving the **Economic Emission Dispatch (EED)** problem with Unit Commitment in power systems.
 
